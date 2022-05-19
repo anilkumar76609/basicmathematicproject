@@ -1,0 +1,15 @@
+C:\Users\Anil Kumar\source\repos\BasicMathematicsproject\BasicMathematicsproject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Anil Kumar\source\repos\BasicMathematicsproject\BasicMathematicsproject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Anil Kumar\source\repos\BasicMathematicsproject\BasicMathematicsproject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Anil Kumar\source\repos\BasicMathematicsproject\BasicMathematicsproject\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Anil Kumar\source\repos\BasicMathematicsproject\BasicMathematicsproject\bin\Debug\BasicMathematicsproject.dll
+C:\Users\Anil Kumar\source\repos\BasicMathematicsproject\BasicMathematicsproject\bin\Debug\BasicMathematicsproject.pdb
+C:\Users\Anil Kumar\source\repos\BasicMathematicsproject\BasicMathematicsproject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Anil Kumar\source\repos\BasicMathematicsproject\BasicMathematicsproject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Anil Kumar\source\repos\BasicMathematicsproject\BasicMathematicsproject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Anil Kumar\source\repos\BasicMathematicsproject\BasicMathematicsproject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Anil Kumar\source\repos\BasicMathematicsproject\BasicMathematicsproject\obj\Debug\BasicMathematicsproject.csproj.AssemblyReference.cache
+C:\Users\Anil Kumar\source\repos\BasicMathematicsproject\BasicMathematicsproject\obj\Debug\BasicMathematicsproject.csproj.CoreCompileInputs.cache
+C:\Users\Anil Kumar\source\repos\BasicMathematicsproject\BasicMathematicsproject\obj\Debug\BasicMathematicsproject.csproj.CopyComplete
+C:\Users\Anil Kumar\source\repos\BasicMathematicsproject\BasicMathematicsproject\obj\Debug\BasicMathematicsproject.dll
+C:\Users\Anil Kumar\source\repos\BasicMathematicsproject\BasicMathematicsproject\obj\Debug\BasicMathematicsproject.pdb
